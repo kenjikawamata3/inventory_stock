@@ -2,12 +2,12 @@
 
 ■git bush 
 ・git bush の際にはパスワードではなく、アクセストークンが求められる。
-※アクセストークンはキーチェーンに保存（2022/5/16最終更新 次回は90日後）
+※2022/5/29最終更新 次回は90日後
+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
 
 ■環境構築
 #TODO 以下記載していく
 1. nvm install (homebrew は導入済み)
-参考サイト：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
 2. Vue CLI install 
 cmd: npm install -g @vue/cli
 
