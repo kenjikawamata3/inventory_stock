@@ -3,7 +3,6 @@
 ■git bush 
 ・git bush の際にはパスワードではなく、アクセストークンが求められる。
 ※2022/5/29最終更新 次回は90日後
-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
 
 ■環境構築
 #TODO 以下記載していく
