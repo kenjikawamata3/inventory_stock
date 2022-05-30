@@ -24,13 +24,20 @@ text-align: center;
     color: white;
     font-weight: 1%;
     font-size: 12px;
+    margin: 5% auto;
 }
 
-#login_form_input_area input[type = "text"],#login_form_input_area input[type = "password"] {
+#login_form_input_area p{
+    color: #F03030;
+    font-weight: 1%;
+    font-size: 12px;
+}
+
+.login_form_input_area {
     border: 0;
     background: none;
     display: block;
-    margin: 5% auto;
+    margin: 3% auto;
     border: 0.25em solid white;
     padding: 1em 1em;
     width: 30em;
@@ -39,6 +46,7 @@ text-align: center;
     transition: 0.25s;
     text-align: center;
     cursor: pointer;
+    color: white;
 }
 
 #login_form_btn input[type = "button"]{
